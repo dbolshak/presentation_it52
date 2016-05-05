@@ -1,4 +1,4 @@
-# presentation_it52
+# materials for http://www.it52.info
 погодные данные
 ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/
 Формат данных, классический csv файл, поля разделены запятыми

@@ -17,8 +17,8 @@
 <br/>Информация о USC00218450 (согласно ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt)
 <br/>USC00218450  44.9847  -93.1772  295.7 MN UNIV OF MINN ST PAUL
 <br/>Google нашел ее вот здесь
-<br/>https://www.google.ru/maps/place/44%C2%B059'04.9%22N+93%C2%B010'37.9%22W/@44.9847038,-93.1793887,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.9847!4d-93.1772?hl=en
-<br/>Anoka County is the fourth-most populous county in the U.S. state of Minnesota. As of the 2010 census, the population was 330,844
-<br/>Unemployment rate:3.7% (Apr 2015)
-<br/>Population:339,534 (2013)
-<br/>Area:1,155 km²
+<br/>https://www.google.ru/maps/place/Breeding+House,+1825+Buford+Ave,+St+Paul,+MN+55113,+USA/@44.9859217,-93.1794843,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x0:0x0!2zNDTCsDU5JzA0LjkiTiA5M8KwMTAnMzcuOSJX!3b1!8m2!3d44.9847!4d-93.1772!3m4!1s0x52b32b7c8c71e7b9:0x2be43a709b41d238!8m2!3d44.9844214!4d-93.1773769?hl=en
+</br>Breeding House
+</br>1825 Buford Ave
+</br>St Paul, MN 55113
+</br>USA

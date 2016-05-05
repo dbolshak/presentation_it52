@@ -9,3 +9,5 @@ ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 RSM00027612 - код метеостанции (station identifier) установленной в Москве
 RSM00027459 - код метеостанции (station identifier) установленной в Нижнем Новгороде
+
+USC00218450
